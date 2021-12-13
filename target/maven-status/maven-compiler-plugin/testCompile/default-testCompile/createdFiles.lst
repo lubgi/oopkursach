@@ -1,0 +1,7 @@
+com\shop\mapper\PhoneMapperTest.class
+com\shop\mapper\UserMapperTest.class
+com\shop\mapper\CommentMapperTest.class
+com\shop\mapper\ProductMapperTest.class
+com\shop\mapper\OrderMapperTest.class
+com\shop\mapper\ComputerMapperTest.class
+com\shop\mapper\LaptopMapperTest.class
